@@ -72,7 +72,7 @@ https://dev.to/alphaexcel
 
 - GitHub: https://github.com/Alphaexcel
 - Dev.to: https://dev.to/alphaexcel
-- Twitter/X: your handle here
+- Twitter/X: @oyinemi
 
 ---
 
