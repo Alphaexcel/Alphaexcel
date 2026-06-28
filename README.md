@@ -62,12 +62,6 @@ https://dev.to/alphaexcel
 
 ---
 
-📊 GitHub Stats
-
-(Optional: can be added later with GitHub stats cards)
-
----
-
 📫 Contact
 
 - GitHub: https://github.com/Alphaexcel
