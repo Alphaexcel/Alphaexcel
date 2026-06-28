@@ -22,7 +22,7 @@ Frontend:
 - CSS3
 - JavaScript
 - React
-- Angular (Basics)
+- Angular
 
 Tools:
 
